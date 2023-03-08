@@ -41,11 +41,13 @@ Create a new public GitHub repository and clone it locally. I made two, one to h
 To begin, navigate to the repository's settings tab and select the Pages menu from the left side. Now scroll down to the Branch section, where you can select the branch where the ```index.html``` file is located, as well as the root or docs directory and save. Your web app will be live in a matter of minutes. 
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/patildnyaneshwar/AppLinking/blob/main/image_files/github_pages_tab.png">
+  <img width="700" height="300" src="https://github.com/patildnyaneshwar/AppLinking/blob/main/image_files/github_pages_tab.png">
 </p>
 
+----------
+
 <p align="center">
-  <img width="500" height="300" src="https://github.com/patildnyaneshwar/AppLinking/blob/main/image_files/github_deployment_branch.png">
+  <img width="700" height="300" src="https://github.com/patildnyaneshwar/AppLinking/blob/main/image_files/github_deployment_branch.png">
 </p>
 
 ### _Upload assetlinks.json_
@@ -71,7 +73,7 @@ https://digitalassetlinks.googleapis.com/v1/statements:list?source.web.site=http
 Replace _domain-name_ with the name of your domain. If your file looks like this at the bottom, it is correct.
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/patildnyaneshwar/AppLinking/blob/main/image_files/linking_sucess.png">
+  <img width="700" height="300" src="https://github.com/patildnyaneshwar/AppLinking/blob/main/image_files/linking_sucess.png">
 </p>
 
 ## Example
