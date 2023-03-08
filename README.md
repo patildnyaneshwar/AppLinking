@@ -77,7 +77,7 @@ Replace _domain-name_ with the name of your domain. If your file looks like this
 </p>
 
 ## Example
-* If app is installed clicking on the [link](https://patildnyaneshwar.github.io/AppLinking/web-app/home?username=username&password=12345) opens the app and If we have both username and password values, this will auto-fill in edittext and execute auto sign-in, else the standard scenario will be used.
+* If app is installed clicking on the [link](https://patildnyaneshwar.github.io/AppLinking/web-app/home?username=Dnyaneshwar&password=12345) opens the app and If we have both username and password values, this will auto-fill in edittext and execute auto sign-in, else the standard scenario will be used.
 * In case app is not installed, the link by default opens the browser.
 
 I hope you have learned something from this example. Please let me know if you have any questions. I will be delighted to assist you.
